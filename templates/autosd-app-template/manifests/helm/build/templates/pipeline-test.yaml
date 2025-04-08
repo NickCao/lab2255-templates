@@ -104,7 +104,7 @@ spec:
         - cdn-upload
       params:
         - name: endpoint
-          value: ${{values.jumpstarter_host}}
+          value: grpc.apps.cluster-kqtrz.kqtrz.sandbox4702.opentlc.com:443
         - name: namespace
           value: jumpstarter-qemu-exporter
         - name: name
