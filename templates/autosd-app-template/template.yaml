@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: autosd-app-template
-  title: AutoSD Sample Application
+  title: AutoSD Sample Application CHANGED!
   description: Demonstrates how AutoSD effectively constrains the memory usage in the QM partition.
   tags:
     - automotive
